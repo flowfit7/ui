@@ -89,6 +89,7 @@ export class HeaderComponent implements OnInit, OnDestroy {
 
   logout() {
      alert("logout")
+     alert("Successs!!")
   }
 
   navigateHome() {
